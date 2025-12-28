@@ -1,7 +1,0 @@
-STATUS: PSpice Schematics to Capture translator (24.1.0.d001)
-STATUS:  
-STATUS: Translator started at Thursday, September 18, 2025 08:13:29
-INFO(ORSCH-1029): Using existing library 'C:\Cadence\OrCADX_24.1\tools\Capture\Library\PSpice\modeled.etc'.
-INFO(ORSCH-1031): Created new library 'C:\Users\dosanj5\OneDrive - McMaster University\School Files\2025 - 2026\ELEC 3EJ4\My2N3904.olb'.
-STATUS: Translator stopped at Thursday, September 18, 2025 08:13:39
-STATUS: 0 Error messages, 0 Warning messages
