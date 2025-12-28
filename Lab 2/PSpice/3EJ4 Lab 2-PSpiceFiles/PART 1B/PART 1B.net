@@ -1,9 +1,0 @@
-* source 3EJ4 LAB 2
-V_VEE         N00598 0 -5V
-R_R2         N00598 VB  57.6k TC=0,0 
-Q_Q1         VO VB VE MY2N3904 
-R_R3         N00598 VE  8.06k TC=0,0 
-R_R1         VB 0  76.8k TC=0,0 
-V_Vsig         N01594 0 DC 4.4018V AC 1mV 0
-Q_Q2         VO N01594 N02137 MY2N3906 
-V_VCC         N02137 0 5V

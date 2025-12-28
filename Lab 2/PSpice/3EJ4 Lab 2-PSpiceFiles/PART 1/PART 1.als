@@ -1,8 +1,0 @@
-.ALIASES
-R_R1            R1(1=N00270 2=0 ) CN @3EJ4 LAB 2.PART 1(sch_1):INS26@ANALOG.R.Normal(chips)
-R_R2            R2(1=N00235 2=N00270 ) CN @3EJ4 LAB 2.PART 1(sch_1):INS42@ANALOG.R.Normal(chips)
-R_R3            R3(1=N00235 2=N00231 ) CN @3EJ4 LAB 2.PART 1(sch_1):INS58@ANALOG.R.Normal(chips)
-V_VCC           VCC(+=N00178 -=0 ) CN @3EJ4 LAB 2.PART 1(sch_1):INS117@SOURCE.VDC.Normal(chips)
-V_VEE           VEE(+=N00235 -=0 ) CN @3EJ4 LAB 2.PART 1(sch_1):INS133@SOURCE.VDC.Normal(chips)
-Q_Q1            Q1(C=N00178 B=N00270 E=N00231 ) CN @3EJ4 LAB 2.PART 1(sch_1):INS160@MY2N3904.MY2N3904.Normal(chips)
-.ENDALIASES
