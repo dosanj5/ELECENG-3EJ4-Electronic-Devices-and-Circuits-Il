@@ -1,9 +1,0 @@
-* source 3EJ4 LAB 5
-R_R1         N03825 N03695  240k TC=0,0 
-V_VDD         N03919 0 5V
-R_R2         N04304 VOUT  240k TC=0,0 
-V_VSS         N03745 0 -5V
-C_C2         N04304 N03695  1n  TC=0,0 
-X_U1         0 N04304 N03919 N03745 VOUT TLV2371
-C_C1         VOUT N03695  1n  TC=0,0 
-V_Vin         N03825 0 DC 0Vdc AC 1Vac 0

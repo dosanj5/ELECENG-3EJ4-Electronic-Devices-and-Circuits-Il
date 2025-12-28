@@ -1,9 +1,0 @@
-* source 3EJ4 LAB 5
-R_R2         VN VOUT  100k TC=0,0 
-R_R3         0 VN  200k TC=0,0 
-X_U1         VP VN N01734 N01798 VOUT TLV2371
-R_R1         N01658 VP  100k TC=0,0 
-V_VSS         N01798 0 -5V
-V_VDD         N01734 0 5V
-C_C1         0 VP  1n  TC=0,0 
-V_Vin         N01658 0 DC 0Vdc AC 100mVac 0
